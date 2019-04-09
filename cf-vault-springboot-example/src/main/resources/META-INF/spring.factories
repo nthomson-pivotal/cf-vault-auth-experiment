@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+org.paasify.cfvault.example.integration.cloud.MyVaultBootstrapConfiguration
