@@ -1,9 +1,11 @@
 # CloudFoundry Vault Auth Experiment
 
-This repository contains code related to an experiment to integrate CloudFoundry applications to Vault
-for authentication purposes.
+This repository contains code related to an experiment to allow CloudFoundry applications to obtain 
+a token from Vault by using Diego instance identity certificates. This means that these CF applications
+do not need to be explicitly provided with a token on startup via a service broker or some other separate
+provisioning process.
 
-WARNING: The code is pretty messy and hacky.
+WARNING: Here be dragons
 
 ## Overview
 
