@@ -20,4 +20,4 @@ the above Vault auth plugin
 1. `cf-vault-cli` is a CloudFoundry CLI plugin that provides convenience functions for mapping CF orgs,
 spaces and applications to Vault roles in the Vault auth plugin
 
-See the README files in each sub-project for more information.
+See the `README` files in each sub-project for more information.
