@@ -5,6 +5,8 @@ a token from Vault by using Diego instance identity certificates. This means tha
 do not need to be explicitly provided with a token on startup via a service broker or some other separate
 provisioning process.
 
+![architecture](https://raw.githubusercontent.com/nthomson-pivotal/cf-vault-auth-experiment/master/docs/arch.png)
+
 WARNING: Here be dragons
 
 ## Overview
